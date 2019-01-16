@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.drop{
+  border-radius: 5px;
+  border:5px solid silver;
+  width:138px;
+  height: 138px;
+  margin:0 auto;
+}
+/* .shows{
+  display: none;
+} */
+
+.num0{
+  display: none;
+}
+.num1{
+  display: none;
+}
+.num2{
+  display: none;
+}
+
+.num3{
+  display: none;
+}
+.num4{
+  display: none;
+}
+.num5{
+  display: none;
+}
+.num6{
+  display: none;
+}
+.num7{
+  display: none;
+}
